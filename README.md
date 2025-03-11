@@ -23,8 +23,6 @@
   <td align='center' width="200">
         <img src="[https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fgoogle-ai-gemini91216.logowik.com.webp?alt=media&token=2e4ad51e-4dec-4382-927b-0c2fdf5faa46](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCBJ8fz6KNK6Ut3df5khikEAXIkhoquFuFgw&s)"  >
     </td>
-
-
     
 </table>
 </p>
